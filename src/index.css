@@ -1,0 +1,123 @@
+.active {
+    background-color: #1ABC9C;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+#about {
+    background-color: #1ABC9C;
+}
+
+#defa {
+    background-color: #1ABC9C;
+}
+
+#defa img {
+    width: 17%;
+    margin-top: 6%;
+    margin-bottom: 3%;
+}
+
+h2::after {
+content: "";
+width: 7%;
+height: 5px;
+background-color: #000;
+position: absolute;
+top: 23%;
+right: 40%;
+}
+
+h2::before {
+content: "";
+width: 7%;
+height: 5px;
+background-color: #000;
+position: absolute;
+top: 23%;
+left: 40%;
+}
+
+#h2 i {
+    top: 22%;
+    left: 49%;
+}
+
+h4::after {
+content: "";
+width: 7%;
+height: 5px;
+background-color: #000;
+position: absolute;
+top: 26%;
+right: 40%;
+}
+
+h4::before {
+content: "";
+width: 7%;
+height: 5px;
+background-color: #000;
+position: absolute;
+top: 26%;
+left: 40%;
+}
+
+#h4 i {
+    position: absolute;
+    left: 49%;
+    top: 25%;
+}
+
+h5::after {
+content: "";
+width: 5%;
+height: 5px;
+background-color: #fff;
+position: absolute;
+top: 59%;
+right: 42%;
+}
+
+h5::before {
+content: "";
+width: 5%;
+height: 5px;
+background-color: #fff;
+position: absolute;
+top: 59%;
+left: 42%;
+}
+
+#h5 i {
+    position: absolute;
+    top: 58%;
+    left: 49%;
+}
+
+h6::after {
+content: "";
+width: 5%;
+height: 5px;
+background-color: #fff;
+position: absolute;
+top: 78%;
+right: 42%;
+}
+
+h6::before {
+content: "";
+width: 5%;
+height: 5px;
+background-color: #fff;
+position: absolute;
+top: 78%;
+left: 42%;
+}
+
+#h6 i {
+    position: absolute;
+    top: 77%;
+    left: 49%;
+    color: #fff;
+}
